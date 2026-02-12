@@ -1,5 +1,5 @@
 import streamlit as st
-from Share import Stock
+from share import Stock
 import pandas as pd
 import plotly_express as px
 import yfinance as yf
